@@ -1,2 +1,2 @@
 # react_myapp2
-This is to verify git clone.
+This is to verify git clone.LJ.
